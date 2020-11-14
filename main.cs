@@ -7,5 +7,11 @@ class MainClass {
     if(1 == 1){
       Console.WriteLine("Hello world");
     }
+
+    //Variables
+    int a = 10;
+    bool b = true;
+
+
   }
 }
